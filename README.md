@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Cal, a Professional Business Analyst
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/calmuramaru/)
- [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:cmuramaru8@gmail.com)  
- [![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat&logo=github&logoColor=white)](https://github.com/calmuramaru)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/calmuramaru/)
+ [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:cmuramaru8@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat&logo=github&logoColor=white)](https://github.com/calmuramaru)
 
 
 
