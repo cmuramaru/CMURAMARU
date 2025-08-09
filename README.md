@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Cal, a Professional Business Analyst
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/calmuramaru/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calmuramaru/)
+
 
 
 <!--
