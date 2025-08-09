@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Cal, a Professional Business Analyst
 
 <!--
-**cmuramaru/CMURAMARU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cmuramaru/CMURAMARU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 🔭 I’m currently working on creating engaging educational content and sustainability-focused projects. I aim to make complex information accessible and inspiring for all learners.
 
