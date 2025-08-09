@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Cal, a Professional Business Analyst
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)(https://www.linkedin.com/in/calmuramaru/)
 
 <!--
 **cmuramaru/CMURAMARU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
