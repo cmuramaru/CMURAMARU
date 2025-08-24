@@ -9,7 +9,7 @@
 
 💬 Ask me about instructional design, simplifying complex topics, and creative project planning. I enjoy breaking down challenges into clear, practical steps.
 
-📫 How to reach me: ![cmuramaru8@gmail.com](https://img.shields.io/badge/-cmuramaru8@gmail.com-red?style=flat&logo=gmail&logoColor=white) |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calmuramaru/). I’m always open to connecting with like-minded professionals and new opportunities.
+📫 How to reach me: [![cmuramaru8@gmail.com](https://img.shields.io/badge/-cmuramaru8@gmail.com-red?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox) |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calmuramaru/). I’m always open to connecting with like-minded professionals and new opportunities.
 
 😄 Pronouns: he/him. I respect the identity of my own as well as others. 
 
