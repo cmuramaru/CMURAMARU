@@ -10,6 +10,6 @@
 
 📫 How to reach me: ![cmuramaru8@gmail.com](https://img.shields.io/badge/-cmuramaru8@gmail.com-red?style=flat&logo=gmail&logoColor=white) |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calmuramaru/). I’m always open to connecting with like-minded professionals and new opportunities.
 
-😄 Pronouns: they/them (or yours). I value inclusivity and respect in every interaction.
+😄 Pronouns: he/him. I respect the identity of my own as well as others. 
 
-⚡ Fun fact: I can explain climate science in under a minute… and make it entertaining. I’ve been told it’s like watching a mini TED Talk.
+⚡ Fun fact: Grip a baseball in your hand and I can tell you what kind of spin the ball will have as you throw it. 
